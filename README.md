@@ -1,8 +1,11 @@
 👋 Hi, I’m @RiskTaker1119
-👀 I’m interested in quantitative finance, algorithmic trading, and software development.
-🌱 I’m currently learning advanced C++ techniques and machine learning for trading strategies.
-💞️ I’m looking to collaborate on financial modeling projects and open-source trading algorithms.
-📫 How to reach me: crazyquant@tutamail.com
+🎓 I hold a Master of Finance (MFin) from SUSTech and currently work as a Quantitative Researcher at a hedge fund managing over 100B+ AUM.
+👀 I’m deeply interested in quantitative finance, algorithmic trading, and software development.
+🌱 I’m currently advancing my skills in C++ and exploring machine learning techniques for developing robust trading strategies.
+💡 I’m open to collaborating on financial modeling, quantitative research projects, and open-source trading algorithms.
+📫 Feel free to reach out to me at: crazyquant@tutamail.com
+
+
 
 <!---
 RiskTaker1119/RiskTaker1119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
